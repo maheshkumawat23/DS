@@ -24,3 +24,10 @@ Naive solution would be consider every pair in given array and return if desired
 
 Time Complexity = O(n^2)
 space used = O(1).
+
+
+Solution -2 : sorting -> for explanation see the code
+
+Time Complexity = O(nlogn)
+
+space used = O(1);
