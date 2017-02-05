@@ -15,3 +15,12 @@ Pair found at index 0 and 2 (8+2)
 OR
 
 Pair found at index 1 and 5 (7+3)
+
+--------------------------------------------------------------------------------------------------------
+
+Solution -1 : Naive solution 
+
+Naive solution would be consider every pair in given array and return if desired sum is found.
+
+Time Complexity = O(n^2)
+space used = O(1).
