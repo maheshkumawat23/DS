@@ -31,3 +31,38 @@ Solution -2 : sorting -> for explanation see the code
 Time Complexity = O(nlogn)
 
 space used = O(1);
+
+
+Solution - 3: Hashing 
+
+We can use Map to easily solve this problem in linear time. The idea is to insert
+each element of the arr[i] in a map. We also checks if difference (arr[i],sum-arr[i]) already exists in the map
+or not. if the difference is seen before, we print the pair and return.
+
+Time Complexity :- O(n).
+
+
+Space used : O(n);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
